@@ -34,7 +34,7 @@
     "mocha": "^7.1.2",
     "nyc": "^15.0.0",
     "save": "^2.4.0",
-    "semantic-release": "^17.0.2",
+    "semantic-release": "^19.0.0",
     "sinon": "^8.1.1",
     "standard": "^14.3.1"
   },
