@@ -21,11 +21,11 @@
   },
   "devDependencies": {
     "-": "0.0.1",
-    "apidoc": "^0.22.1",
+    "apidoc": "^0.50.0",
     "apidoc-markdown": "^5.1.1",
     "chai": "^4.2.0",
     "coveralls": "^3.0.9",
-    "eslint": "5.16.0",
+    "eslint": "9.0.0",
     "eslint-config-prettier": "^6.0.0",
     "eslint-config-standard": "^14.1.0",
     "eslint-plugin-node": "^9.1.0",
@@ -36,7 +36,7 @@
     "save": "^2.4.0",
     "semantic-release": "^17.0.2",
     "sinon": "^8.1.1",
-    "standard": "^14.3.1"
+    "standard": "^16.0.0"
   },
   "apidoc": {
     "title": "jwt-bch-lib",
