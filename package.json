@@ -21,7 +21,7 @@
   },
   "devDependencies": {
     "-": "0.0.1",
-    "apidoc": "^0.22.1",
+    "apidoc": "^0.50.0",
     "apidoc-markdown": "^5.1.1",
     "chai": "^4.2.0",
     "coveralls": "^3.0.9",
